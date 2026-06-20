@@ -84,6 +84,24 @@ Onde:
 * Perfis Hierárquicos Granulares: GEG (Gestão Executiva), ANL/ANB (Analistas), TEOP (Técnico Operacional) e TECH (Suporte Técnico).
 * Quarentena de Segurança: Bloqueio de 7 dias para solicitações rejeitadas.
 
+* <img width="1918" height="1078" alt="sistema VaccineManager-01-tela-login" src="https://github.com/user-attachments/assets/0279cd76-4342-49e2-90b6-01e84b58b384" />
+
+<img width="1918" height="1078" alt="sistema VaccineManager-02-novo-cadastro" src="https://github.com/user-attachments/assets/f8a5650d-65f4-4eb3-8712-26fe87e27807" />
+
+<img width="1918" height="1015" alt="sistema VaccineManager-03-pesquisa" src="https://github.com/user-attachments/assets/77784130-a79f-4e75-9744-6782c4344609" />
+
+<img width="1918" height="1015" alt="sistema VaccineManager-04-editar-registro" src="https://github.com/user-attachments/assets/55ef7030-ba47-44d4-87e4-e4c6212fad43" />
+
+
 ### 5.2 Dashboard Prescritivo e Emissão de Ordens Dinâmicas
 O Dashboard calcula a soma consolidada de todos os lotes ativos por imunizante. Se o estoque mestre violar o limite seguro, ele acende um alerta. Um clique duplo abre uma janela modal para emissão imediata da ordem de compra.
+
+<img width="1918" height="1015" alt="sistema VaccineManager-04-editar-registro" src="https://github.com/user-attachments/assets/352fcbb8-9149-4adc-b315-06fbde4f2e18" />
+
+<img width="1913" height="1018" alt="sistema VaccineManager-07-dashboard-lotes-alerta" src="https://github.com/user-attachments/assets/6ce06a21-7422-48e8-974b-e68b7fb400c6" />
+
+<img width="1917" height="1017" alt="sistema VaccineManager-09-relatorio" src="https://github.com/user-attachments/assets/adeb30cf-f6ae-4075-9aeb-a16516f90eec" />
+
+
+
 
